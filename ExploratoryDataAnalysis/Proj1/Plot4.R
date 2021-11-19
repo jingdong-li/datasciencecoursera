@@ -35,7 +35,7 @@ makePlot4 <- function() {
   
   dev.off()
   
-  print("The plot file was created and saved as plot3.png")
+  print("The plot file was created and saved as plot4.png")
 }
 
 # Call makePlot4 function
